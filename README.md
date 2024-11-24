@@ -8,7 +8,7 @@ k1 (k https://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly,
 k Atom -> k1 Acceleration
 
 k Atomic Relativity
-k1 (Subject Therefore Object) Therefore (Time Complex Therefore Space Complex)
+k1 Subject Therefore Object
 
 O( log n) Composition -> O(1) Contraction
 
