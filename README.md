@@ -10,7 +10,7 @@ k Atom -> k1 Acceleration
 k Atomic Relativity
 k1 (Subject Therefore Object) Therefore (Time Complex Therefore Space Complex)
 
-O(1) Composition -> Contraction
+O( log n) Composition -> O(1) Contraction
 
 Human Atonomy
 
