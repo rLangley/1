@@ -6,6 +6,8 @@ k https://en.wikipedia.org/wiki/The_Bell_Curve -> k1 (k https://stackoverflow.co
 
 k Atom -> k1 Acceleration
 
+k photon -> k1 light
+
 k Atomic Relativity -> k1 (Subject Therefore Object)
 
 O( log n) Composition -> O(1) Contraction
